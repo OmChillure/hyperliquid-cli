@@ -156,6 +156,10 @@ RiskLimits {
 }
 ```
 
+##Tests
+- unit_test.rs : mocks data for risk policy decisions
+- folder : tests/unit_test.rs
+
 ### Network Configuration
 - **Testnet**: `https://api.hyperliquid-testnet.xyz`
   
@@ -222,7 +226,10 @@ src/
 │   ├── streaming.rs    # Streaming services
 │   └── risk.rs         # Risk management types
 ├── cli.rs              # Command line interface
+├── lib.rs              # module export for tests
 └── main.rs             # Application entry point
+tests/
+├── unit_test/          # Unit test for risk policy decision
 ```
 
 ## Security note
@@ -244,4 +251,5 @@ src/
 ## AI USE
 - I have used AI to make the repsonse more visually appealing, like the boxes and stuff.
 - Also used it while I was stuck in some errors especailly during making the trading work.
-- hyperlqiuid rust sdk had no proper docs, so I used ai to extract what function are there and the params.
+- hyperlqiuid rust sdk had no proper docs, so I used ai to extract definations and params of functions.
+- I don't have much experience in writing tests, so the unit test is written by ai, and I have iterated and correct various bugs that were there. 
