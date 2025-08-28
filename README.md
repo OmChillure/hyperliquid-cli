@@ -14,7 +14,6 @@ A cli and HTTP APIs for trading on Hyperliquid DEX.
 ### Installation
 ```bash
 git clone <repository-url>
-cd hyperliquid-cli
 cargo build
 ```
 
