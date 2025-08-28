@@ -267,5 +267,5 @@ tests/
 
 
 ## NOTE :
-- I have written the unit_test with help of ai, and iterated over that to make eveyrhting work fine, improts bugs etc and was not able to complete the integration_test I dont have much exp there but surely can learn. 
+- I have written the unit_test with help of ai, and iterated over it to fix bugs, imports, other errors and was not able to complete the integration_test I dont have much exp there but surely can learn. 
 
