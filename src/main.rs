@@ -172,7 +172,6 @@ async fn start_server(port: u16) -> Result<()> {
     println!("   GET  /status       - Exchange status");
     println!("   GET  /balances     - Account balances");
     println!("   GET  /spot         - Spot markets");
-    println!("   POST /stream       - Start data streaming");
     println!();
     println!("Press Ctrl+C to stop the server");
     
