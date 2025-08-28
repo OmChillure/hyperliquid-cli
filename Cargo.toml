@@ -27,3 +27,6 @@ alloy = { version = "1.0", default-features = false, features = [
     "signers"
 ] }
 hyperliquid_rust_sdk = "0.6.0"
+
+[dev-dependencies]
+tokio-test = "0.4.4"
