@@ -255,4 +255,8 @@ tests/
 - I have used AI to make the repsonse more visually appealing, like the boxes and stuff.
 - Also used it while I was stuck in some errors especailly during making the trading work.
 - hyperlqiuid rust sdk had no proper docs, so I used ai to extract definations and params of functions.
-- I don't have much experience in writing tests, so the unit test is written by ai, and I have iterated and correct various bugs that were there. 
+
+
+## NOTE :
+- I have written the unit_test with help of ai, and iterated over that to make eveyrhting work fine, improts bugs etc and was not able to complete the integration_test I dont have much exp there but surely can learn. 
+
