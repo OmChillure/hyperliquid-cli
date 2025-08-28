@@ -226,9 +226,9 @@ src/
 ```
 
 ## Security note
-1] For now I have used ".env" to load variables like apis and stuff, in prod we can encrypt the apis keys before using it for the apis.\n
-2] comprehenisve audits and testing is must before making it live.\n
-3] Made sure that there is no logging of privatekeys.\n
+- For now I have used ".env" to load variables like apis and stuff, in prod we can encrypt the apis keys before using it for the apis.
+- comprehenisve audits and testing is must before making it live.\n
+- Made sure that there is no logging of privatekeys.\n
 
 
 ## Dependencies
@@ -242,6 +242,6 @@ src/
 
 
 ## AI USE
-1] I have used AI to make the repsonse more visually appealing, like the boxes and stuff.
-2] Also used it while I was stuck in some errors especailly during making the trading work.
-3] hyperlqiuid rust sdk had no proper docs, so I used ai to extract what function are there and the params.
+- I have used AI to make the repsonse more visually appealing, like the boxes and stuff.
+- Also used it while I was stuck in some errors especailly during making the trading work.
+- hyperlqiuid rust sdk had no proper docs, so I used ai to extract what function are there and the params.
