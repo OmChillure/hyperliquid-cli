@@ -226,9 +226,9 @@ src/
 ```
 
 ## Security note
-1] For now I have used ".env" to load variables like apis and stuff, in prod we can encrypt the apis keys before using it for the apis.
-2] comprehenisve audits and testing is must before making it live.
-3] Made sure that there is no logging of privatekeys.
+1] For now I have used ".env" to load variables like apis and stuff, in prod we can encrypt the apis keys before using it for the apis.\n
+2] comprehenisve audits and testing is must before making it live.\n
+3] Made sure that there is no logging of privatekeys.\n
 
 
 ## Dependencies
