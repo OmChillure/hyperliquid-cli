@@ -3,6 +3,7 @@ use anyhow::{Context, Result};
 use alloy::signers::{local::PrivateKeySigner};
 use reqwest::Client;
 
+
 #[derive(Clone)]
 pub struct ExchangeService {
     client: Client,

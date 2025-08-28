@@ -7,5 +7,6 @@ pub mod risk;
 
 pub use api::*;
 pub use exchange::*;
-pub use trading::*;
+// changed this due to ambigous warning.
+pub use trading::{OrderRequest, OrderResponse, OrderResult};
 pub use risk::*;
