@@ -12,6 +12,9 @@ A cli and HTTP APIs for trading on Hyperliquid DEX.
 ## Video
 [Demo Video](https://g2yvn1909f.ufs.sh/f/juQEJbMbBjvrFekz7li0QpgY5RL12W3V6AhcyvlESjxfPuze)
 
+## Links
+[Design Docs](https://docs.google.com/document/d/1zJNNnkXs5G7tCmoHRYJJrwZ3BwbM-dvSWa3FszC6MdI/edit?usp=sharing)
+
 ## Bonus 
 Simple REST server (axum) exposing /health, /positions, /orders.
 ```bash
