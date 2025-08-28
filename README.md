@@ -9,6 +9,9 @@ A cli and HTTP APIs for trading on Hyperliquid DEX.
 - **HTTP API**: RESTful endpoints for programmatic access
 - **Order Management**: Support for limit, market, and reduce-only orders
 
+## Video
+[Demo Video](https://g2yvn1909f.ufs.sh/f/juQEJbMbBjvrFekz7li0QpgY5RL12W3V6AhcyvlESjxfPuze)
+
 ## Quick Start
 
 ### Installation
