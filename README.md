@@ -1,4 +1,4 @@
-# Hyperliquid CLI Trading Bot
+# Hyperliquid CLI Trading
 A cli and HTTP APIs for trading on Hyperliquid DEX.
 
 ## Features
