@@ -2,7 +2,6 @@
 A cli and HTTP APIs for trading on Hyperliquid DEX.
 
 ## Features
-
 - **CLI Trading**: Execute buy/sell orders directly from command line
 - **Risk Management**: Configurable leverage and notional limits per symbol
 - **Market Data**: Real-time trade streaming and market status
